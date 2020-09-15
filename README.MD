@@ -12,6 +12,6 @@ Python version was created by me in reference to Matlab implementation
 created by AGH.
 
 The main goal of the practice was to write and add ADMM alogrithm to nara_wpe
-implementation avaliavle in here: https://github.com/fgnt/nara_wpe
+implementation avaliable in here: https://github.com/fgnt/nara_wpe
 
 
