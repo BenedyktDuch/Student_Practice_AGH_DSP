@@ -1,6 +1,6 @@
-##ADMM - Alternating Direction Method Of Multipliers
-
-**In this repostiory I present final version of ADMM dereverberation 
+ADMM - Alternating Direction Method Of Multipliers
+===========
+In this repostiory I present final version of ADMM dereverberation 
 algorithm, implemented during student pratice in DSP AGH team.
 
 This solution was based on Narrowband Generalized dereverberation framework desribed in
@@ -14,4 +14,4 @@ created by AGH.
 The main goal of the practice was to write and add ADMM alogrithm to nara_wpe
 implementation avaliavle in here: https://github.com/fgnt/nara_wpe
 
-**
+
